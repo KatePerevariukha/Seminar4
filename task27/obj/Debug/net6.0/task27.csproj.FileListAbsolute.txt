@@ -1,0 +1,15 @@
+C:\FilesGB\SeminarGB_4\Seminar4\task27\obj\Debug\net6.0\task27.csproj.AssemblyReference.cache
+C:\FilesGB\SeminarGB_4\Seminar4\task27\obj\Debug\net6.0\task27.GeneratedMSBuildEditorConfig.editorconfig
+C:\FilesGB\SeminarGB_4\Seminar4\task27\obj\Debug\net6.0\task27.AssemblyInfoInputs.cache
+C:\FilesGB\SeminarGB_4\Seminar4\task27\obj\Debug\net6.0\task27.AssemblyInfo.cs
+C:\FilesGB\SeminarGB_4\Seminar4\task27\obj\Debug\net6.0\task27.csproj.CoreCompileInputs.cache
+C:\FilesGB\SeminarGB_4\Seminar4\task27\bin\Debug\net6.0\task27.exe
+C:\FilesGB\SeminarGB_4\Seminar4\task27\bin\Debug\net6.0\task27.deps.json
+C:\FilesGB\SeminarGB_4\Seminar4\task27\bin\Debug\net6.0\task27.runtimeconfig.json
+C:\FilesGB\SeminarGB_4\Seminar4\task27\bin\Debug\net6.0\task27.dll
+C:\FilesGB\SeminarGB_4\Seminar4\task27\bin\Debug\net6.0\task27.pdb
+C:\FilesGB\SeminarGB_4\Seminar4\task27\obj\Debug\net6.0\task27.dll
+C:\FilesGB\SeminarGB_4\Seminar4\task27\obj\Debug\net6.0\refint\task27.dll
+C:\FilesGB\SeminarGB_4\Seminar4\task27\obj\Debug\net6.0\task27.pdb
+C:\FilesGB\SeminarGB_4\Seminar4\task27\obj\Debug\net6.0\task27.genruntimeconfig.cache
+C:\FilesGB\SeminarGB_4\Seminar4\task27\obj\Debug\net6.0\ref\task27.dll

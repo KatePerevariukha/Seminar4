@@ -1,13 +1,19 @@
-﻿// Задача 29: Напишите программу, которая задаёт массив из 8 элементов, предоставить возможность пользователю ввести числа и вывести их на экран.
-//1, 2, 5, 7, 19, 6, 1, 33 -> [1, 2, 5, 7, 19, 6, 1, 33]
+﻿// Задача 25: Напишите цикл, который принимает на вход два числа (A и B) и возводит число A в натуральную степень B.
+// НЕ ИСПОЛЬЗОВАТЬ MATH.POW
+// 3, 5 -> 243 (3⁵)
+// 2, 4 -> 16
 
 Console.Clear();
-int n = 7;
-int[] array = new int[n];
+Console.Write("Введите число:");
+int n = Convert.ToInt32(Console.ReadLine());
+Console.Write("Введите степень:");
+int m = Convert.ToInt32(Console.ReadLine());
+Console.Write($"Результат");
+
+int[] array = int [int m];
+
 for (int i = 0; i < array.Length; i++)
 {
-    Console.Write("Ведите один из восьми элементов массива:");
-    int x = Convert.ToInt32(Console.ReadLine());
-    array[i] = x;
+    
 }
- Console.WriteLine($"[{string.Join(", ", array)}]");
+ Console.WriteLine($"res");
